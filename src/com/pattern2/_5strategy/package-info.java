@@ -1,7 +1,7 @@
 /**
  * @descrition 策略模式
  * @author xudj
- * @date 2016年9月29日 下午9:29:50
+ * @date 2016年9月29日 上午9:29:50
  * @version 1.0
  */
 /**
